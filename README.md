@@ -1,2 +1,2 @@
 # Dead Man's Speed
-Juego de la Pixel Game Jam - 2025
+Made in 4 days for Pixel Game Jam - 2025
