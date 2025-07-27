@@ -1,6 +1,12 @@
 # Dead Man's Speed
-Made in 4 days for Pixel Game Jam - 2025
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/62b12f35-a213-46fa-9d1b-f5696139d6c6" />
+Play your cards against the best duelers of the graveyard. When both cards match, launch your strike to damage your opponent.
 
-https://marak32.itch.io/dead-mans-speed
+## How it was made
+This game was made entirely by me in four days for the [Pixel Game Jam 2025](https://itch.io/jam/-pixel-game-jam-2025), using only Unity and C#.
+
+## What I implemented
+This game features a simple turn based gameplay.
+
+## Showcase
+It can be play here: https://marak32.itch.io/dead-mans-speed
